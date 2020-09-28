@@ -1,7 +1,9 @@
 import React from 'react'
 import {Link} from "react-router-dom"
 
+
 function ProductCard(props) {
+
   return (
     <div className='border mb-6 rounded overflow-hidden'>
       <Link to={`/products/${props.product.id}`}>
