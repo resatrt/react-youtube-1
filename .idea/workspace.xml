@@ -11,17 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d190b8-5f56-48a1-a22f-0f86e43595b8" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Loading.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ProductCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ProductCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hooks/HttpRequest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hooks/HttpRequest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Views/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Views/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Views/Product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/tailwind.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +54,7 @@
       <workItem from="1601280875820" duration="579000" />
       <workItem from="1601281785814" duration="819000" />
       <workItem from="1601282913855" duration="268000" />
-      <workItem from="1601284055756" duration="5801000" />
+      <workItem from="1601284055756" duration="6711000" />
     </task>
     <servers />
   </component>
@@ -85,7 +75,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="添加loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加loading" />
   </component>
   <component name="WindowStateProjectService">
     <state width="934" height="161" key="GridCell.Tab.0.bottom" timestamp="1601284373820">
@@ -104,17 +95,5 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="934" height="161" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1601284373819" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Components/ProductCard.js</url>
-          <line>4</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
